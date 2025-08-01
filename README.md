@@ -1,5 +1,6 @@
 # the-futon-dataset
 棉被資料集
+<img src="data/day_0001.jpg" width="400" alt="day1">
 
 所有相片的版權皆屬於原作者 [fangyi_0923](https://www.threads.com/@fangyi_0923)。
 
