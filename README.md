@@ -11,3 +11,4 @@
 ## Notes
 * day198 -> day199 threads 似乎換了 jpeg 的 color profile.
 <img src="notes/diff_198_199.png" width="400" alt="day 198 199 diff">
+* day 380 rotate 180 degrees.
